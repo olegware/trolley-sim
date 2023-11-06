@@ -35,18 +35,17 @@ The simulation is implemented in Python, using libraries such as NetworkX for gr
 
 - **Net change in happiness bar chart**
 
-  ![image](https://github.com/olegware/trolley-sim/assets/129217985/d43f5474-056f-44d0-8be2-b9baa311a851)
-
+  ![Screenshot 2023-11-05 192306](https://github.com/olegware/trolley-sim/assets/129217985/766e82fa-8270-46ab-9fad-c61529e2dcea)
 
 - **Post-decision society graph**
 
-  ![image](https://github.com/olegware/trolley-sim/assets/129217985/42ee58d8-95ee-449d-960c-2ad35fe408be)
+  ![Screenshot 2023-11-05 192426](https://github.com/olegware/trolley-sim/assets/129217985/e23c16bf-dd06-4900-bd95-b7dc054364be)
 
 ## Findings
 
 - **Results upon running the simulation 1000 times**
 
-  ![image](https://github.com/olegware/trolley-sim/assets/129217985/f1af33af-e4a3-451e-beb2-b6ae93a92147)
+  ![Screenshot 2023-11-05 194034](https://github.com/olegware/trolley-sim/assets/129217985/a53e1870-f4e2-4a38-bb27-dfa0ce221832)
 
 The above findings suggest that even in a small society of only 100 people, through the unpredictable nature of connections and the emotional contagion that propagates through them, the true utility of a seemingly obvious utilitarian decision can be significantly undermined. Here lies the problem of utilitarian calculation in complex networks: we cannot reliably foresee the true utility of an action past a pure surface level.
  
